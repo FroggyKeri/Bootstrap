@@ -105,7 +105,7 @@ $font-stack: 'Calibri';
   
   .sidebar-nav li a:hover {
     text-decoration: none;
-    color: #fff;
+    color: #bdbdbd;
     background: rgba(255, 255, 255, 0.2);
   }
   
@@ -159,11 +159,24 @@ $font-stack: 'Calibri';
     background: #343a40;
   }
 
-.main-content {
+  .main-content {
     margin-right: 250px; // Space for the sidebar when it's open
     padding: 2rem;
     flex: 1;
-}
+  }
+
+  //button dropdown
+  .btn-x2 {
+    padding: .25rem 1.25rem;
+    background: transparent;
+    outline: 2px #fff;
+    color:#fff;
+
+    &:hover {
+      background: transparent;
+      color:#bdbdbd;
+    }
+  }
 
 //find out more button
 .btn-xl {

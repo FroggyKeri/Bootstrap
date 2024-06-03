@@ -13282,7 +13282,7 @@ textarea.form-control-lg {
 }
 
 .sidebar-nav li a:hover {
-  color: #fff;
+  color: #bdbdbd;
   background: #fff3;
   text-decoration: none;
 }
@@ -13342,6 +13342,18 @@ textarea.form-control-lg {
   flex: 1;
   margin-right: 250px;
   padding: 2rem;
+}
+
+.btn-x2 {
+  color: #fff;
+  background: none;
+  outline: 2px #fff;
+  padding: .25rem 1.25rem;
+}
+
+.btn-x2:hover {
+  color: #bdbdbd;
+  background: none;
 }
 
 .btn-xl {
