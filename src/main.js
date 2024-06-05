@@ -1,71 +1,43 @@
-import Chart from 'chart.js/auto';
+import Chart from 'chart.js/auto'
 
-async function fetchData() {
-    const response = await fetch('./assets/plantData.txt');
-    const text = await response.text();
-    const lines = text.split('\n').filter(line => line && !line.startsWith('#'));
-    const data = lines.map(line => {
-        const [date, time, temp, light, soil, humidity] = line.split(' ');
-        return {
-            date: `${date} ${time}`,
-            temp: parseFloat(temp),
-            light: parseFloat(light),
-            soil: parseFloat(soil),
-            humidity: parseFloat(humidity)
-        };
-    });
-    return data;
-}
+const myRequest = new Request("/assets/plantData.json");
+console.log(myRequest);
 
-(async function() {
-    const data = await fetchData();
+fetch(myRequest)
+    .then((response) => {
+        response.json()
+        console.log(response);
+    })
+    .then((jsonData) => console.log(jsonData))
 
-    const ctx = document.getElementById('acquisitions').getContext('2d');
-    new Chart(ctx, {
-        type: 'line',
-        data: {
-            labels: data.map(row => row.date),
-            datasets: [
-                {
-                    label: 'Temperature (C)',
-                    data: data.map(row => row.temp),
-                    borderColor: 'rgba(255, 99, 132, 1)',
-                    backgroundColor: 'rgba(255, 99, 132, 0.2)',
-                    fill: true,
-                    tension: 0.1
-                },
-                {
-                    label: 'Light Level (%)',
-                    data: data.map(row => row.light),
-                    borderColor: 'rgba(54, 162, 235, 1)',
-                    backgroundColor: 'rgba(54, 162, 235, 0.2)',
-                    fill: true,
-                    tension: 0.1
-                },
-                {
-                    label: 'Soil Moisture (%)',
-                    data: data.map(row => row.soil),
-                    borderColor: 'rgba(75, 192, 192, 1)',
-                    backgroundColor: 'rgba(75, 192, 192, 0.2)',
-                    fill: true,
-                    tension: 0.1
-                },
-                {
-                    label: 'Air Humidity (%)',
-                    data: data.map(row => row.humidity),
-                    borderColor: 'rgba(153, 102, 255, 1)',
-                    backgroundColor: 'rgba(153, 102, 255, 0.2)',
-                    fill: true,
-                    tension: 0.1
-                }
-            ]
-        },
-        options: {
-            scales: {
-                y: {
-                    beginAtZero: true
+
+    (async function () {
+        const data = [
+            { year: 2010, count: 100 },
+            { year: 2011, count: 20 },
+            { year: 2012, count: 15 },
+            { year: 2013, count: 25 },
+            { year: 2014, count: 22 },
+            { year: 2015, count: 30 },
+            { year: 2016, count: 28 },
+        ];
+
+        new Chart(
+            document.getElementById('acquisitions'),
+            {
+                type: 'bar',
+                data: {
+                    labels: data.map(row => row.year),
+                    datasets: [
+                        {
+                            label: 'Acquisitions by year',
+                            data: data.map(row => row.count)
+                        }
+                    ]
                 }
             }
-        }
-    });
-})();
+        );
+    })();
+
+
+
