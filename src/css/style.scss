@@ -211,6 +211,15 @@ $font-stack: 'Calibri';
     }
   }
 
+  .rounded-container {
+    background-color: #f8f9fa; /* Set background color */
+    border-radius: 15px; /* Adjust border radius for rounded corners */
+    padding: 20px; /* Add padding for spacing inside the container */
+    margin-bottom: 20px; /* Add margin to separate from other elements */
+    max-width: 1000px; /* Set maximum width */
+    margin-left: auto; /* Center the container horizontally */
+    margin-right: auto; /* Center the container horizontally */
+}
 
 
 body {

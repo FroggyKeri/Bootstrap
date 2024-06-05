@@ -16,9 +16,9 @@
     <nav id="sidebar-wrapper">
         <ul class="sidebar-nav">
             <li class="sidebar-brand"><a href="#page-top">Navigation</a></li>
-            <li class="sidebar-nav-item"><a href="#page-top">Home</a></li>
-            <li class="sidebar-nav-item"><a href="#about">About</a></li>
-            <li class="sidebar-nav-item"><a href="#data">Data</a></li>
+            <li class="sidebar-nav-item"><a href="#home">Projekt</a></li>
+            <li class="sidebar-nav-item"><a href="#data">Daten</a></li>
+            <li class="sidebar-nav-item"><a href="#website">Website</a></li>
             <div class="btn-group">
                 <button class="btn btn-x2 dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
                   Datasheets
@@ -49,16 +49,30 @@
 
     <main>
         <section id="home">
-            <h1>Welcome to Our Website</h1>
-            <p>Your modern solution for web design.</p>
-        </section>
-        <section id="about">
-            <h2>The Project</h2>
-            <p>We provide top-notch web design services.</p>
+            <div class = "rounded-container">
+                <h1>Das Projekt</h1>
+                <p> Das Ziel bestand darin, einen kompakten "Roboter" zu entwickeln, der Daten mithilfe spezifischer Sensoren erfassen kann. 
+                    Als Beispiel wird die Feuchtigkeit des Bodens erfasst, woraufhin dem angeschlossenen Pumpensystem signalisiert wird, die Pflanze zu bewässern.
+                    Die Implementierung des Steuerungsprogramms erfolgte auf einem Raspberry Pi 4 unter Verwendung der Programmiersprache C.
+            </p>
+            </div>
         </section>
         <section id="data">
-            <h2>Data</h2>
-            <p>Get in touch with us for more information.</p>
+            <div class = "rounded-container">
+                <h2>Daten</h2>
+                <p>Die Datenerfassung erfolgte über einen Zeitraum von mehreren Tagen und wurde in einer Datei gespeichert. 
+                    Anschließend wurde diese Datei umstrukturiert und in das JSON-Format konvertiert. 
+                    Die so erstellte JSON-Datei wurde dann mithilfe von Chart.js und JavaScript, wie in der obigen Darstellung dargestellt, visualisiert und in ein Diagramm integriert.
+                </p>
+            </div>
+        </section>
+        <section id="website">
+            <div class = "rounded-container">
+                <h2>Website</h2>
+                <p>Die Webseite wurde unter Verwendung von HTML, SCSS und JavaScript entwickelt. Dabei wurde das Open-Source-Framework Bootstrap 5 für die Gestaltung und Strukturierung der Seite eingesetzt. 
+                    Zusätzlich wurde die Open-Source-JavaScript-Bibliothek Chart.js verwendet, um die Daten visuell darzustellen.
+                </p>
+            </div>
             <script type="module" src="./main.js"></script>
         </section>
     </main>
@@ -68,6 +82,9 @@
             <ul class="list-inline mb-5">
                 <li class="list-inline-item">
                     <a class="social-link rounded-circle text-white" href="https://github.com/MakeshiftMaker"><i class="bi bi-github"></i></a>
+                </li>
+                <li class="list-inline-item">
+                    <a class="social-link rounded-circle text-white" href="https://github.com/FroggyKeri"><i class="bi bi-github"></i></a>
                 </li>
             </ul>
             <p>&copy; 2024 Kerstin Heitzmann. All rights reserved.</p>      
