@@ -5,39 +5,69 @@ console.log(myRequest);
 
 fetch(myRequest)
     .then((response) => {
-        response.json()
         console.log(response);
+        return response.json(); // Parse JSON data
     })
-    .then((jsonData) => console.log(jsonData))
+    .then((data) => {
+        console.log(data); // Log the parsed JSON data
 
+        // Extract labels and datasets
+        const labels = data.map(entry => entry.date + " " + entry.time);
+        const tempData = data.map(entry => entry.temp);
+        const lightData = data.map(entry => entry.light);
+        const moistureData = data.map(entry => entry.moisture);
+        const humidityData = data.map(entry => entry.humidity);
 
-    (async function () {
-        const data = [
-            { year: 2010, count: 100 },
-            { year: 2011, count: 20 },
-            { year: 2012, count: 15 },
-            { year: 2013, count: 25 },
-            { year: 2014, count: 22 },
-            { year: 2015, count: 30 },
-            { year: 2016, count: 28 },
-        ];
-
+        // Create a line chart using Chart.js
         new Chart(
             document.getElementById('acquisitions'),
             {
-                type: 'bar',
+                type: 'line', // Change chart type to line
                 data: {
-                    labels: data.map(row => row.year),
+                    labels: labels,
                     datasets: [
                         {
-                            label: 'Acquisitions by year',
-                            data: data.map(row => row.count)
+                            label: 'Temperature (°C)',
+                            data: tempData,
+                            borderColor: 'rgb(255, 99, 132)', // Red color
+                            fill: false
+                        },
+                        {
+                            label: 'Light',
+                            data: lightData,
+                            borderColor: 'rgb(255, 205, 86)', // Yellow color
+                            fill: false
+                        },
+                        {
+                            label: 'Moisture',
+                            data: moistureData,
+                            borderColor: 'rgb(54, 162, 235)', // Blue color
+                            fill: false
+                        },
+                        {
+                            label: 'Humidity (%)',
+                            data: humidityData,
+                            borderColor: 'rgb(75, 192, 192)', // Cyan color
+                            fill: false
                         }
                     ]
+                },
+                options: {
+                    scales: {
+                        x: {
+                            ticks: {
+                                autoSkip: true, // Enable auto-skipping of labels
+                                maxTicksLimit: 10 // Maximum number of ticks to display
+                                
+                            }
+                        }
+                    }
                 }
             }
         );
-    })();
-
+    })
+    .catch((error) => {
+        console.error('Error:', error);
+    });
 
 

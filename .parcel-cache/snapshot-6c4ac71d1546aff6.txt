@@ -1,4 +1,4 @@
-6690
+6670
 132C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\fs\src\find.js133618882999625226 0
 156C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\csso\node_modules\css-tree\cjs\lexer\Lexer.cjs133618883032138312 0
 109C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\package.json133620721666128559 0
@@ -54,7 +54,7 @@
 135C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\svgo\plugins\prefixIds.js133618883038272030 0
 159C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\caniuse-lite\data\features\css-backdrop-filter.js133620717831213470 0
 202C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\common\nthWithOfClause.js133618883000506053 0
-101C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist133620721763706457 1
+101C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist133620768773983560 1
 152C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\css-tree\cjs\utils\create-custom-error.cjs133618883031126836 0
 152C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\json-parse-even-better-errors\package.json133618883034658110 0
 173C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\utils.js133618883000677921 0
@@ -99,7 +99,6 @@
 159C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest5.c133618883035758419 0
 151C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\csso\cjs\replace\property\font-weight.cjs133618883031843408 0
 136C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\color-convert\package.json133618883029484637 0
-123C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\index.4d6bcbeb.js.map133620715243575282 0
 149C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\node-gyp-build-optional-packages\bin.js133618883036602685 0
 162C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@popperjs\core\lib\dom-utils\getScrollParent.js.flow133618883018349666 0
 128C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\chrome-trace-event133618883029434605 1
@@ -134,7 +133,7 @@
 146C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\svgo\plugins\removeOffCanvasPaths.js133618883038318001 0
 147C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\utils\test\collection.test.js133618883017304437 0
 103C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\src\js133618952730274637 1
-108C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\src\main.js133620715241967049 0
+108C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\src\main.js133620766196332473 0
 158C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@popperjs\core\lib\dom-utils\isLayoutViewport.js133618883018415316 0
 148C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@swc\helpers\esm\_apply_decs_2203_r.js133618883023389576 0
 118C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\msgpackr133618883036518612 1
@@ -590,7 +589,6 @@
 160C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@babel\highlight\node_modules\color-name\README.md133618882997898538 0
 143C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\lmdb\dependencies\lz4\lib\lz4hc.h133618883035871937 0
 158C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@swc\helpers\_\_non_iterable_spread\package.json133618883022781852 0
-124C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\index.c92073ef.css.map133618882997478011 0
 180C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\selectors.schema.json133618883002273640 0
 137C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\svgo\plugins\removeTitle.js133618883038336511 0
 125C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\posthtml-render133618883037092082 1
@@ -841,7 +839,6 @@
 130C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\micromatch\README.md133618883036221067 0
 143C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@swc\helpers\_\_wrap_native_super133618883023016343 1
 126C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\msgpackr\pack.js133618883036487613 0
-140C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\Plant-Automata-Website.59712999.js.map133620696243064837 0
 139C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\csso\lib\replace\Dimension.js133618883031977591 0
 129C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\type-fest\readme.md133618883038536795 0
 132C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\parent-module\index.js133618883036902079 0
@@ -1036,7 +1033,6 @@
 149C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\csso\node_modules\mdn-data\api\index.js133618883033056435 0
 127C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\tslib\LICENSE.txt133620717829428826 0
 179C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\css-select\node_modules\entities\lib\generated\decode-data-xml.js.map133618883030608859 0
-119C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\index.59a40e7a.js133618923372866976 0
 143C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\electron-to-chromium\package.json133620717829459632 0
 149C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\css-tree\lib\syntax\node\Parentheses.js133618883031465084 0
 141C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\source-map-js\lib\base64-vlq.js133618883037837874 0
@@ -2195,7 +2191,7 @@
 148C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\csso\cjs\restructure\prepare\index.cjs133618883031879881 0
 136C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\css-select\lib\esm\sort.js133618883029915425 0
 119C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\lmdb\dict133618883035890062 1
-108C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\assets133620721749698613 1
+108C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\assets133620768773996789 1
 119C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\lmdb\dist133618883035920901 1
 169C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.c133618883035609239 0
 162C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\css-select\lib\esm\pseudo-selectors\aliases.d.ts.map133618883029829308 0
@@ -2503,7 +2499,6 @@
 120C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\braces\lib133618883025819398 1
 132C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\detect-libc\.npmignore133618883033142837 0
 133C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\import-fresh\index.d.ts133618883034307949 0
-119C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\index.72eb8e38.js133618928074905731 0
 167C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\040-presets.md133618883033931671 0
 157C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\caniuse-lite\data\features\channel-messaging.js133620717830685401 0
 179C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\common133618883001882724 1
@@ -2813,7 +2808,7 @@
 153C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\electron-to-chromium\chromium-versions.json133620717829367105 0
 160C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@popperjs\core\dist\esm\dom-utils\getParentNode.js133618883017847228 0
 156C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\electron-to-chromium\full-chromium-versions.js133620717829223500 0
-120C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\index.846ee76f.css133620721763530791 0
+120C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\index.846ee76f.css133620768773796103 0
 164C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\csso\node_modules\css-tree\cjs\syntax\atrule\index.cjs133618883032211150 0
 158C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\electron-to-chromium\full-chromium-versions.json133620717829388227 0
 147C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\electron-to-chromium\full-versions.js133620717829301452 0
@@ -2959,7 +2954,7 @@
 195C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\2-initialMergeRuleset.js133618883000741652 0
 160C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\runtime-js\lib\helpers\node\html-loader.js133618883003512331 0
 159C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\caniuse-lite\data\features\wasm-extended-const.js133620717843743684 0
-112C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\index.html133620721763530791 0
+112C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\index.html133620768773765124 0
 139C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\dom-serializer\lib\index.d.ts133618883033209619 0
 156C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\csso\cjs\restructure\2-initialMergeRuleset.cjs133618883031853840 0
 157C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\caniuse-lite\data\features\wasm-multi-memory.js133620717843799464 0
@@ -3421,7 +3416,7 @@
 131C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\css-tree\lib\index.js133618883031262379 0
 178C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\properties.json133618883000848669 0
 162C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\caniuse-lite\data\features\css-background-offsets.js133620717831229791 0
-120C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\assets\MCP3008.pdf133620721749698613 0
+120C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\assets\MCP3008.pdf133620768773983560 0
 147C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\css-tree\lib\parser\parse-selector.js133618883031323655 0
 129C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\css-tree\lib\parser133618883031328792 1
 129C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\css-tree\lib\syntax133618883031545562 1
@@ -4459,7 +4454,6 @@
 155C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\transformer-css\lib\CSSTransformer.js133618883016247067 0
 152C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\caniuse-lite\data\features\css-any-link.js133620717831085915 0
 160C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\caniuse-lite\data\features\css-at-counter-style.js133620717831166046 0
-124C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\index.2e8c441c.css.map133620696881304507 0
 152C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\caniuse-lite\data\features\css-autofill.js133620717831190578 0
 162C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\caniuse-lite\data\features\css-boxdecorationbreak.js133620717831249890 0
 154C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@swc\helpers\_\_read_only_error\package.json133618883022828135 0
@@ -4668,7 +4662,6 @@
 153C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\caniuse-lite\data\features\link-icon-svg.js133620717837361846 0
 161C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\caniuse-lite\data\features\link-rel-dns-prefetch.js133620717837371853 0
 151C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\caniuse-lite\data\features\sql-storage.js133620717842211444 0
-123C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\index.8d1d23e7.js.map133618957798238282 0
 158C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@popperjs\core\lib\utils\getOppositePlacement.js133618883018852677 0
 162C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\caniuse-lite\data\features\link-rel-modulepreload.js133620717837391825 0
 135C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\fs\lib\browser.js133618882999567007 0
@@ -4811,6 +4804,7 @@
 187C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeEmptyContainers.js133618883001177990 0
 155C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\caniuse-lite\data\features\x-doc-messaging.js133620717844476101 0
 144C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\caniuse-lite\data\features\xhr2.js133620717844476101 0
+119C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\index.494a7aac.js133620768773796103 0
 149C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\caniuse-lite\data\features\xhtmlsmil.js133620717844476101 0
 154C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\caniuse-lite\data\features\xml-serializer.js133620717844476101 0
 126C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@swc\helpers\cjs133618883023379579 1
@@ -4909,7 +4903,6 @@
 166C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\xast.js133618883001032235 0
 137C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\bootstrap\js\src\tooltip.js133618883025312950 0
 131C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\bootstrap\js\src\util133618883025370507 1
-120C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\index.c92073ef.css133618882997467996 0
 141C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\bootstrap\js\src\util\config.js133618883025333075 0
 132C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@lezer\lr\package.json133618882998039727 0
 133C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\workers\src\web133618883017635171 1
@@ -5135,7 +5128,7 @@
 140C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\config-default\LICENSE133618882998533056 0
 175C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@swc\helpers\src\_class_check_private_static_field_descriptor.mjs133618883023807853 0
 162C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@swc\helpers\src\_class_extract_field_descriptor.mjs133618883023807853 0
-128C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\assets\DHT11_datasheet.pdf133620721749208946 0
+128C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\assets\DHT11_datasheet.pdf133620768773996789 0
 140C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\graph\test\integration133618882999756484 1
 163C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@swc\helpers\src\_class_private_field_destructure.mjs133618883023818210 0
 155C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@swc\helpers\src\_class_private_field_get.mjs133618883023823358 0
@@ -5793,6 +5786,7 @@
 154C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\transformer-html\node_modules\srcset133618883016308931 1
 165C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\transformer-html\node_modules\srcset\index.d.ts133618883016293548 0
 167C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\transformer-html\node_modules\srcset\package.json133618883016303710 0
+123C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\index.494a7aac.js.map133620768773963597 0
 128C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@kurkle\color\dist133618923734947668 1
 164C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\transformer-html\node_modules\srcset\readme.md133618883016308931 0
 154C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\transformer-html\lib\dependencies.js133618883016272823 0
@@ -6113,7 +6107,7 @@
 134C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@lezer\lr\dist\index.cjs133618882998008691 0
 175C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\restructure\index.js133618883002177125 0
 175C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\restructure\utils.js133618883002197594 0
-126C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\bg-masthead.9c2d83f8.jpg133620721757724720 0
+126C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\bg-masthead.9c2d83f8.jpg133620768773695097 0
 183C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\restructure\prepare\index.js133618883002187309 0
 189C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\restructure\prepare\specificity.js133618883002192451 0
 169C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\atrule133618883002119260 1
@@ -6123,7 +6117,7 @@
 186C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\property\font-weight.js133618883002139605 0
 170C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\Atrule.js133618883002043782 0
 171C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\Comment.js133618883002043782 0
-124C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\index.846ee76f.css.map133620721763682662 0
+124C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\index.846ee76f.css.map133620768773953560 0
 176C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\TypeSelector.js133618883002060459 0
 169C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\utils.js133618883002065553 0
 174C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\WhiteSpace.js133618883002065553 0
@@ -6584,7 +6578,6 @@
 138C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\cache\src\FSCache.js133618882998291876 0
 147C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\cache\src\IDBCache.browser.js133618882998291876 0
 139C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\cache\src\IDBCache.js133618882998297077 0
-122C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\favicon.277a906c.ico133618882997422771 0
 136C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\cache\src\index.js133618882998313177 0
 136C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\cache\src\types.js133618882998313177 0
 137C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@parcel\bundler-default\lib133618882998230873 1
@@ -6615,7 +6608,6 @@
 134C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@kurkle\color\LICENSE.md133618923734937650 0
 136C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@kurkle\color\package.json133618923734907623 0
 141C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@kurkle\color\dist\color.min.js133618923734897662 0
-120C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\index.2e8c441c.css133620696881280989 0
 145C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@kurkle\color\dist\color.min.js.map133618923734927621 0
 127C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@babel\code-frame133620717829237488 1
 144C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@babel\helper-validator-identifier133620717829352009 1
@@ -6658,7 +6650,6 @@
 144C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\@babel\code-frame\lib\index.js.map133620717829223500 0
 131C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\.bin\browserslist.cmd133618882997488007 0
 131C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\.bin\browserslist.ps1133618882997497995 0
-123C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\index.59a40e7a.js.map133618923372907186 0
 126C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\.bin\detect-libc133618882997512995 0
 130C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\.bin\detect-libc.cmd133618882997523312 0
 130C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\.bin\detect-libc.ps1133618882997523312 0
@@ -6678,14 +6669,3 @@
 123C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\.bin\sass.cmd133618882997632908 0
 121C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\.bin\semver133618882997638005 0
 125C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\node_modules\.bin\semver.ps1133618882997643089 0
-126C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\bg-masthead.882db904.jpg133620696880729267 0
-123C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\Bootstrap.59712999.js133618882997347750 0
-127C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\Bootstrap.59712999.js.map133618882997367723 0
-119C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\index.4d6bcbeb.js133620715243491920 0
-123C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\index.72eb8e38.js.map133618928075037654 0
-119C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\index.73d5a45f.js133620721763530791 0
-123C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\index.73d5a45f.js.map133620721763706457 0
-119C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\index.8d1d23e7.js133618957798108147 0
-119C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\index.de158e3a.js133620696243084184 0
-123C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\index.de158e3a.js.map133620696243094302 0
-136C:\Users\kerst\OneDrive - Fachhochschule Salzburg GmbH\Dokumente\SS24\IOT\Plant-Automata-Website\dist\Plant-Automata-Website.59712999.js133620696243035233 0
